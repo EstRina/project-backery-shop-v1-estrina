@@ -1,5 +1,5 @@
 import type {FC} from "react";
-import type {RouteType} from "../../utils/paths.ts";
+import type {RouteType} from "../../utils/shop-types.ts";
 import {NavLink} from "react-router-dom"
 import {Outlet} from "react-router-dom"
 
